@@ -1,0 +1,9 @@
+# Ignorar ambiente virtual
+venv/
+
+# Ignorar chaves de API (CRÍTICO)
+.env
+
+# Ignorar arquivos temporários e de cache
+__pycache__/
+.gradio/
